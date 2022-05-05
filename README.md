@@ -4,7 +4,7 @@ This script is used to help me take emails I label as receipts and load them int
 
 ## Usage
 
-Edit the file to fit your needs, then run `python export_gmail_receipts.py` on a regular basis to keep your inbox synced to obsidian.
+Edit the file to fit your needs, then run `python gmail_receipts_to_obsidian.py` on a regular basis to keep your inbox synced to obsidian.
 
 ## Requirements
 
@@ -14,7 +14,7 @@ Edit the file to fit your needs, then run `python export_gmail_receipts.py` on a
 
 - This file can (and should) be modified to fit your liking, receipts are just a useful example I used. 
 
-- The template is formed to be compatible with the dataview plugin for obsidian so long as you have the inline attributes option enabled.
+- The template is formed to be compatible with the [dataview plugin](https://blacksmithgu.github.io/obsidian-dataview/) for obsidian so long as you have the inline attributes option enabled.
 
 ## Output
 
